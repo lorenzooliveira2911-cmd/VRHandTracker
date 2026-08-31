@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VR Hand Tracker</string>
+    <string name="permission_camera_rationale">This app needs camera access to track your hands in VR</string>
+    <string name="tracking_status_initializing">Initializing hand tracking...</string>
+    <string name="tracking_status_ready">Ready - Look at your hands</string>
+    <string name="tracking_status_no_camera">Camera not available</string>
+    <string name="tracking_status_permission_denied">Camera permission denied</string>
+    <string name="btn_recenter">Recenter</string>
+    <string name="btn_toggle_vr">Toggle VR</string>
+</resources>
